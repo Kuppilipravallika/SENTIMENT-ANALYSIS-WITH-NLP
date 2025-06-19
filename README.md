@@ -62,6 +62,7 @@ Helps businesses or teams quickly assess customer mood from reviews.
 
 Ideal for learning NLP concepts like TF-IDF and Logistic Regression.
 
+
 Can be expanded to support more categories or advanced models (e.g., deep learning).
 
 Useful for educational demos, product feedback analysis, or social media sentiment monitoring.
@@ -69,3 +70,5 @@ Useful for educational demos, product feedback analysis, or social media sentime
 Conclusion : 
 The Customer Review Sentiment Analyzer is a lightweight and effective ML application that blends natural language processing with a user-friendly web interface. With just a few lines of input, users can gain insights into customer sentiment, making it a valuable tool for both educational and practical use.
 
+![Image](https://github.com/user-attachments/assets/dd4579ba-8dff-47f7-8c0e-14224c12f87b)
+![Image](https://github.com/user-attachments/assets/3d1b2fdf-2660-4fa1-b8c4-4f5e6e0a2dbe)
